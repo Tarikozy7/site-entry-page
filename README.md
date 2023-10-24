@@ -1,6 +1,6 @@
-# site-entry-page
+# <h1>site-entry-page</h1>
 
-# Used Language
+# <h3>Used Language</h3>
 
 -HTML  
 -CSS  
